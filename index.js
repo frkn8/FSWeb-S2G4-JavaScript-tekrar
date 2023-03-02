@@ -134,7 +134,7 @@ function CemberinAlani(yaricap, pi){
 	    tekraredensayilar.push(`${filtrelenmisDizi[i][0]} sayısı ${filtrelenmisDizi[i][1]} kere tekrar edilmiştir`)
 }
 
-        console.log("Görev-3e__", tekraredensayilar)
+        console.log("Görev 3 f", tekraredensayilar)
 
 
 		
